@@ -1,5 +1,6 @@
 import './App.css';
 import ContactForm from './Component/ContactForm/ContactForm';
+import 'react-toastify/dist/ReactToastify.css';
 import Filter from './Component/Filter/Filter';
 import ContactList from './Component/ContactList/ContactList';
 
